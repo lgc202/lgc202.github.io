@@ -267,6 +267,10 @@ dd {
   margin: 0;
   padding: 0;
 }
+.wl-content .vemoji,
+.wl-content .wl-emoji {
+  display: inline !important;
+}
 .table-container {
   overflow: auto;
 }
